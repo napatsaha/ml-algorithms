@@ -1,2 +1,5 @@
 # ml-algorithms
-Machine Learning code and algorithms I've tried replicating.
+Contains code for algorithms I've tried implementing from scratch.
+
+So far, there are code for:
+- Naive Bayes classifier (categorical)
